@@ -1,0 +1,14 @@
+{
+  "name": "detect",
+  "repo": "virtru-components/detect",
+  "description": "library to detecth browser version",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
